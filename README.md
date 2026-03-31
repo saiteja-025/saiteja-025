@@ -1,48 +1,66 @@
-# Hi 👋, I'm Saiteja
+# 👋 Hi, I'm Sai Teja
 
-🎓 Computer Science Student  
-💻 Learning Python, Data Structures, and Web Development  
-🚀 Interested in backend systems, computer vision, and real-world problem solving  
-
----
-
-## 👨‍💻 About Me
-
-I am a computer science student who enjoys learning by building small programs
-and understanding how software systems work.
-I focus on learning fundamentals properly and improving step by step.
+🎓 B.Tech CSE (AI & ML) | 3rd Year
+💻 Aspiring Software Developer
 
 ---
 
-## 🌱 Currently Learning
+## 💡 About Me
 
-- Python programming  
-- Data Structures and Algorithms  
-- Git & GitHub  
-- Backend basics (APIs, testing, CI concepts)  
-- Basics of Computer Vision  
-
----
-
-## 🧰 Languages & Tools
-
-- Python  
-- C  
-- HTML, CSS, JavaScript  
-- Git & GitHub  
-- Linux basics  
-- VS Code  
+* 💻 Interested in **Software Development & AI/ML**
+* 🌱 Currently learning **Data Structures, Python, and Web Development**
+* 🚀 Building projects to improve real-world problem-solving skills
+* 📈 Practicing coding and improving step by step
 
 ---
 
-## 📌 Projects
+## 🔥 Projects
 
-🔧 **Learning Projects (In Progress)**  
-- Web development mini projects  
-- Data Structures practice  
-- Backend API experiments  
-- Automatic Number Plate Recognition (planned)
+### 🎯 AI Interview Trainer
+
+* Built using Python
+* Simulates interview scenarios for practice
+* Helps improve problem-solving and confidence
 
 ---
 
-⭐ *This profile will be updated regularly as I continue learning.*
+### 🤖 AI Expense Agent (Telegram Bot)
+
+* Telegram bot built using Python
+* Automates expense tracking and responses
+* Demonstrates backend logic and API handling
+
+---
+
+### 🌐 Web Development Projects
+
+* Collection of mini frontend projects
+* Built using HTML, CSS, and JavaScript
+* Focused on UI and basic interactivity
+
+---
+
+## 🛠️ Skills
+
+**Languages:**
+`C` `Python` `JavaScript`
+
+**Frontend:**
+`HTML` `CSS`
+
+**Tools:**
+`Git` `GitHub` `VS Code`
+
+**Learning:**
+`React` `Data Structures` `Machine Learning Basics`
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: *(Add your link here)*
+* 📧 Email: *(Add your email here)*
+
+---
+
+⭐ *Consistently learning and building to become a better developer.*
