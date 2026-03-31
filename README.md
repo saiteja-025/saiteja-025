@@ -58,8 +58,8 @@
 
 ## 📫 Connect With Me
 
-* 🔗 LinkedIn: *(Add your link here)*
-* 📧 Email: *(Add your email here)*
+* 🔗 LinkedIn: *https://www.linkedin.com/in/sai-teja-kandagatla-751739295/*
+* 📧 Email: *kandagatlasaiteja25@gmail.com*
 
 ---
 
