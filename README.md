@@ -4,7 +4,7 @@
 
 ### AI Engineer • Full Stack Developer • Data Science Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software+Systems;AI%2FML+Engineer+in+Progress;Full+Stack+Developer;Machine+Learning+%26+Data+Science+Enthusiast;Turning+Ideas+Into+Scalable+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software+Systems;AI%2FML+Engineer+Enthusiast;Full+Stack+Developer;Machine+Learning+%26+Data+Science+Enthusiast;Turning+Ideas+Into+Scalable+Applications" />
 
 <br>
 
