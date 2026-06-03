@@ -1,55 +1,98 @@
+<div align="center">
+
 # 👋 Hi, I'm Sai Teja
 
-### AI/ML Engineer | Full Stack Developer | Data Science Enthusiast
+### AI Engineer • Full Stack Developer • Data Science Enthusiast
 
-🎓 B.Tech CSE (AI & ML) Student
-💻 Passionate about Artificial Intelligence, Machine Learning, Full Stack Development, and Cloud Technologies
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software+Systems;AI%2FML+Engineer+in+Progress;Full+Stack+Developer;Machine+Learning+%26+Data+Science+Enthusiast;Turning+Ideas+Into+Scalable+Applications" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=saiteja-025&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 🔹 Building AI-powered applications and scalable backend systems
-* 🔹 Interested in Machine Learning, Generative AI, NLP, and Data Science
-* 🔹 Experienced in developing REST APIs and full-stack applications
-* 🔹 Strong foundation in Python, SQL, Data Structures & Algorithms
-* 🔹 Focused on solving real-world problems using technology
+🎓 **B.Tech Computer Science & Engineering (AI & ML)** Student at SR University
+
+💡 Passionate about **Artificial Intelligence, Machine Learning, Full Stack Development, Backend Engineering, and Data Science**
+
+🔭 Building AI-powered applications using **React, FastAPI, PostgreSQL, Docker, NLP, and RAG architectures**
+
+☁️ Microsoft Azure AI Fundamentals (AI-900) Certified
+
+☁️ AWS Cloud Foundations Certified
+
+📈 Interested in designing scalable software systems and solving real-world problems using AI and Data
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Engineering Focus
+
+```text
+Artificial Intelligence
+├── Machine Learning
+├── NLP
+├── Retrieval-Augmented Generation (RAG)
+└── LLM Applications
+
+Backend Engineering
+├── FastAPI
+├── REST APIs
+├── PostgreSQL
+└── Docker
+
+Full Stack Development
+├── React.js
+├── Frontend Architecture
+└── API Integration
+
+Data Science
+├── Data Analysis
+├── Feature Engineering
+├── Predictive Modeling
+└── Analytics Applications
+```
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,javascript,c,mysql" />
 
-### Full Stack Development
+### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=FastAPI\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 
-### Databases
+### Backend & Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### AI / ML
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-673AB7?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-2196F3?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,fastapi" />
 
 ### Tools & Platforms
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" />
+
+</div>
+
+### AI / ML Technologies
+
+* Scikit-Learn
+* Pandas
+* NumPy
+* NLP
+* TF-IDF
+* FAISS
+* RAG
+* LLM Integration
+* Predictive Analytics
+* Data Preprocessing
 
 ---
 
@@ -57,50 +100,125 @@
 
 ### 📄 Document Intelligence & Analytics Platform
 
-* Full Stack AI application built with React, FastAPI, PostgreSQL, and Docker
-* Supports document upload, semantic search, contextual Q&A, summarization, and quiz generation
-* Uses RAG architecture, FAISS vector search, and LLM integration
+**React • FastAPI • PostgreSQL • Docker • FAISS • RAG**
+
+* Full-stack AI platform for document understanding
+* Contextual Q&A and semantic search
+* Automated summarization and quiz generation
+* Scalable backend architecture with vector search
+
+---
 
 ### 💰 AI Expense Analytics Agent
 
-* AI-powered Telegram Bot for expense tracking and financial insights
+**Python • Telegram Bot API • Cloud Deployment**
+
+* AI-powered expense tracking assistant
 * Automated categorization and daily summaries
-* Cloud-hosted backend with persistent storage
-
-### 🎤 AI Interview Simulator
-
-* NLP-based interview preparation platform
-* Generates role-specific questions and evaluates responses
-* Uses TF-IDF, keyword extraction, and sentiment analysis
+* Real-time financial insights
+* Persistent multi-user storage
 
 ---
 
-## 📜 Certifications
+### 🎤 NLP-Based AI Interview Simulator
 
-🏆 Microsoft Certified: Azure AI Fundamentals (AI-900)
+**Python • NLP • Scikit-Learn • TF-IDF**
 
-🏆 AWS Academy Graduate: Cloud Foundations
+* Generates role-specific interview questions
+* Evaluates responses using NLP techniques
+* Sentiment analysis and automated feedback
+* Structured interview preparation platform
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+### Machine Learning Intern | Cognifyz Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+* Built machine learning prediction pipelines using Scikit-Learn
+* Performed data preprocessing and feature engineering
+* Improved model accuracy through iterative optimization
+* Developed data visualization workflows
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+---
+
+### Web Developer Intern | SkillCraft Technology
+
+* Developed responsive full-stack web applications
+* Integrated REST APIs and backend services
+* Optimized frontend performance
+* Worked with Git-based development workflows
+
+---
+
+## 🏆 Certifications
+
+🥇 Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+🥇 AWS Academy Graduate: Cloud Foundations
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=saiteja-025&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-025&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiteja-025&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiteja-025&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+* Strengthen Data Structures & Algorithms
+* Build Production-Ready AI Applications
+* Explore Advanced Machine Learning & GenAI
+* Improve System Design & Backend Engineering Skills
+* Contribute to Open Source Projects
 
 ---
 
 ## 🤝 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/sai-teja-kandagatla-751739295/
+<div align="center">
 
-📧 Email: [kandagatlasaiteja25@gmail.com](mailto:kandagatlasaiteja25@gmail.com)
+<a href="https://www.linkedin.com/in/sai-teja-kandagatla-751739295/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+<a href="mailto:kandagatlasaiteja25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-⭐ Building AI, Full Stack, and Data-Driven Solutions One Project at a Time.
+<div align="center">
+
+### ⭐ Building AI-Powered and Data-Driven Software Solutions
+
+</div>
